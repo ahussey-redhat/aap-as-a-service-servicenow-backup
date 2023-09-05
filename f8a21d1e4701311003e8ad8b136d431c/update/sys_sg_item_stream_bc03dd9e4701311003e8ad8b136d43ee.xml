@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream">
+    <sys_sg_item_stream action="INSERT_OR_UPDATE">
+        <data_item display_value="aap-as-a-service Approval Steps">2003d91e4701311003e8ad8b136d43fd</data_item>
+        <interleaved_field/>
+        <name>Approval Steps Item Stream</name>
+        <sys_class_name>sys_sg_item_stream</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-05 07:08:19</sys_created_on>
+        <sys_id>bc03dd9e4701311003e8ad8b136d43ee</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Approval Steps Item Stream</sys_name>
+        <sys_package display_value="aap-as-a-service" source="x_1116312_aap_as_a">f8a21d1e4701311003e8ad8b136d431c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="aap-as-a-service">f8a21d1e4701311003e8ad8b136d431c</sys_scope>
+        <sys_update_name>sys_sg_item_stream_bc03dd9e4701311003e8ad8b136d43ee</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-05 07:08:19</sys_updated_on>
+        <table/>
+    </sys_sg_item_stream>
+</record_update>

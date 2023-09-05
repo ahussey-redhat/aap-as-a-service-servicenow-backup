@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
+    <sys_sg_master_item action="INSERT_OR_UPDATE">
+        <condition_order/>
+        <datasource_table>process_step_approval</datasource_table>
+        <datasource_table_condition/>
+        <embedded_screen display_value="Approval Steps Form Screen">3003dd9e4701311003e8ad8b136d43ed</embedded_screen>
+        <item_view/>
+        <name>Approval Steps master_item</name>
+        <sys_class_name>sys_sg_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-05 07:08:19</sys_created_on>
+        <sys_id>bc03dd9e4701311003e8ad8b136d43ef</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Approval Steps master_item</sys_name>
+        <sys_package display_value="aap-as-a-service" source="x_1116312_aap_as_a">f8a21d1e4701311003e8ad8b136d431c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="aap-as-a-service">f8a21d1e4701311003e8ad8b136d431c</sys_scope>
+        <sys_update_name>sys_sg_master_item_bc03dd9e4701311003e8ad8b136d43ef</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-05 07:08:19</sys_updated_on>
+        <use_view_config>true</use_view_config>
+        <view_config display_value="Approval Steps List Screen View Config">ec03d91e4701311003e8ad8b136d43fd</view_config>
+    </sys_sg_master_item>
+</record_update>
