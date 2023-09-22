@@ -1,3 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="0156fcbf1b9db950d8bf10ab274bcbc0" extends="task" label="AAP Instance" max_length="40" name="x_snc_ansible_au_0_aap_instance" type="collection"/>
+    <element db_object_id="0156fcbf1b9db950d8bf10ab274bcbc0" extends="task" label="AAP Instance" max_length="40" name="x_snc_ansible_au_0_aap_instance" type="collection">
+        <element formula="MULTIPLY(DIVIDE(max_hosts, 100), 27000)" label="Estimated Annual Cost" mandatory="true" max_length="20" name="estimated_annual_cost" read_only="true" type="decimal" use_dependent_field="true" virtual="true" virtual_type="formula"/>
+        <element default="25" display="true" label="Max Hosts" mandatory="true" max_length="255" name="max_hosts" type="integer"/>
+    </element>
 </database>
