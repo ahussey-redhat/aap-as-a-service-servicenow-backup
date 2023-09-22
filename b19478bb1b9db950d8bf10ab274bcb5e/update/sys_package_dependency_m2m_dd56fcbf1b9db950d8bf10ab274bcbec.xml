@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Task table schema" source="com.glide.task">02f094081b222110d8bf10ab274bcb61</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>redhat.admin</sys_created_by>
+        <sys_created_on>2023-09-22 07:09:36</sys_created_on>
+        <sys_id>dd56fcbf1b9db950d8bf10ab274bcbec</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="Ansible Automation Platform as a Service" source="x_snc_ansible_au_0">b19478bb1b9db950d8bf10ab274bcb5e</sys_package>
+        <sys_updated_by>redhat.admin</sys_updated_by>
+        <sys_updated_on>2023-09-22 07:09:36</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>redhat.admin</sys_created_by>
+        <sys_created_on>2023-09-22 07:09:45</sys_created_on>
+        <sys_id>1756f0ff1b9db950d8bf10ab274bcbb4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_ansible_au_0_aap_instance.x_snc_ansible_au_0.approver</sys_name>
+        <sys_package display_value="Ansible Automation Platform as a Service" source="x_snc_ansible_au_0">b19478bb1b9db950d8bf10ab274bcb5e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Ansible Automation Platform as a Service">b19478bb1b9db950d8bf10ab274bcb5e</sys_scope>
+        <sys_security_acl display_value="x_snc_ansible_au_0_aap_instance">1b56f0ff1b9db950d8bf10ab274bcb95</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_1756f0ff1b9db950d8bf10ab274bcbb4</sys_update_name>
+        <sys_updated_by>redhat.admin</sys_updated_by>
+        <sys_updated_on>2023-09-22 07:09:45</sys_updated_on>
+        <sys_user_role display_value="x_snc_ansible_au_0.approver" name="x_snc_ansible_au_0.approver">b59478bb1b9db950d8bf10ab274bcb64</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

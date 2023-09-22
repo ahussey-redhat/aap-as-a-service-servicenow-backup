@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="AAP Instance" language="en" table="x_snc_ansible_au_0_aap_instance">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>AAP Instance</label>
+            <language>en</language>
+            <name>x_snc_ansible_au_0_aap_instance</name>
+            <plural>AAP Instances</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>redhat.admin</sys_created_by>
+            <sys_created_on>2023-09-22 07:09:36</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>AAP Instance</sys_name>
+            <sys_package display_value="Ansible Automation Platform as a Service" source="x_snc_ansible_au_0">b19478bb1b9db950d8bf10ab274bcb5e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Ansible Automation Platform as a Service">b19478bb1b9db950d8bf10ab274bcb5e</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_ansible_au_0_aap_instance__en</sys_update_name>
+            <sys_updated_by>redhat.admin</sys_updated_by>
+            <sys_updated_on>2023-09-22 07:09:36</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
